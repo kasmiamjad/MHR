@@ -269,7 +269,7 @@ $pending_amount = $total_due - $total_paid;
     <div class="app-container">
         <div class="login-header">
             <h1>Mumbra Hill Resort Booking System</h1>
-            <p>Welcome back! Please login</p>
+            <p>Welcome back! Please login to continue</p>
         </div>
 
         <?php if (isset($error)): ?>
