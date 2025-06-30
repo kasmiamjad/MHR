@@ -324,7 +324,7 @@ $pending_amount = $total_due - $total_paid;
         <div class="public-link">
             <a href="calender.php">
                 <i class="fas fa-calendar-alt"></i>
-                View Availability Calendar
+                View Availability Calendar MHR
             </a>
         </div>
         <?php if ($total_bookings > 0): ?>
