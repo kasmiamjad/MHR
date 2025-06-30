@@ -1,0 +1,24 @@
+[02-Nov-2024 15:55:09 UTC] PHP Warning:  Undefined variable $sql in /home/yszraxwq/mumbrahillresort.com/calender/config.php on line 13
+[02-Nov-2024 15:55:09 UTC] PHP Deprecated:  mysqli::query(): Passing null to parameter #1 ($query) of type string is deprecated in /home/yszraxwq/mumbrahillresort.com/calender/config.php on line 13
+[02-Nov-2024 15:55:09 UTC] PHP Fatal error:  Uncaught ValueError: mysqli::query(): Argument #1 ($query) cannot be empty in /home/yszraxwq/mumbrahillresort.com/calender/config.php:13
+Stack trace:
+#0 /home/yszraxwq/mumbrahillresort.com/calender/config.php(13): mysqli->query()
+#1 /home/yszraxwq/mumbrahillresort.com/calender/get_events.php(20): require_once('/home/yszraxwq/...')
+#2 {main}
+  thrown in /home/yszraxwq/mumbrahillresort.com/calender/config.php on line 13
+[02-Nov-2024 16:01:58 UTC] PHP Warning:  Undefined variable $sql in /home/yszraxwq/mumbrahillresort.com/calender/config.php on line 13
+[02-Nov-2024 16:01:58 UTC] PHP Deprecated:  mysqli::query(): Passing null to parameter #1 ($query) of type string is deprecated in /home/yszraxwq/mumbrahillresort.com/calender/config.php on line 13
+[02-Nov-2024 16:01:58 UTC] PHP Fatal error:  Uncaught ValueError: mysqli::query(): Argument #1 ($query) cannot be empty in /home/yszraxwq/mumbrahillresort.com/calender/config.php:13
+Stack trace:
+#0 /home/yszraxwq/mumbrahillresort.com/calender/config.php(13): mysqli->query()
+#1 /home/yszraxwq/mumbrahillresort.com/calender/get_events.php(25): require_once('/home/yszraxwq/...')
+#2 {main}
+  thrown in /home/yszraxwq/mumbrahillresort.com/calender/config.php on line 13
+[02-Nov-2024 16:02:04 UTC] PHP Warning:  Undefined variable $sql in /home/yszraxwq/mumbrahillresort.com/calender/config.php on line 13
+[02-Nov-2024 16:02:04 UTC] PHP Deprecated:  mysqli::query(): Passing null to parameter #1 ($query) of type string is deprecated in /home/yszraxwq/mumbrahillresort.com/calender/config.php on line 13
+[02-Nov-2024 16:02:04 UTC] PHP Fatal error:  Uncaught ValueError: mysqli::query(): Argument #1 ($query) cannot be empty in /home/yszraxwq/mumbrahillresort.com/calender/config.php:13
+Stack trace:
+#0 /home/yszraxwq/mumbrahillresort.com/calender/config.php(13): mysqli->query()
+#1 /home/yszraxwq/mumbrahillresort.com/calender/get_events.php(25): require_once('/home/yszraxwq/...')
+#2 {main}
+  thrown in /home/yszraxwq/mumbrahillresort.com/calender/config.php on line 13
