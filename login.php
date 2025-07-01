@@ -268,7 +268,7 @@ $pending_amount = $total_due - $total_paid;
 <body>
     <div class="app-container">
         <div class="login-header">
-            <h1>Mumbra Hill Resort Booking System new chnages</h1>
+            <h1>Mumbra Hill Resort Booking System new</h1>
             <p>Welcome back! Please login to continue</p>
         </div>
 
